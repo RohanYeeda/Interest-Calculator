@@ -1,6 +1,6 @@
-  
+
 .container{
-    background-color: #eaedef;
+    background-color: #a8d7f7;
     margin-top: 11%;
     width: 25%;
     border-radius: 5px;
@@ -10,15 +10,16 @@
     align-content: center;
     color: black;
 
-    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+   
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/disco-dba865f1.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 #result{
     font-size:30px;
     padding-top: 1%;
     padding-bottom: 1%;
-    color: #fd440b;
+    color: #f1f50a;
 }
  
   input{
@@ -33,10 +34,11 @@
   
 .content{
     position : absolute ;
-    top: 30%;
-    right: 40%;
+    top: 5%;
+    right: 50%;
    
-    width: 400px;
+   
+    width: 200px;
     height: fit-content;
     box-sizing: border-box;
    
@@ -44,7 +46,7 @@
   }
   .borderx {
     width: 300px;
-    border: 15px solid rgb(128, 0, 0);
+    border: 15px solid rgb(238, 70, 70);
     padding: 50px;
     margin: 20px;
   }
